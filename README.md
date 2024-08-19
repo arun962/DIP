@@ -1,1 +1,2 @@
-# DIP
+# Image Processing Using DFT, DCT, KL, and SVD Transforms
+This project demonstrates various image processing techniques using Discrete Fourier Transform (DFT), Discrete Cosine Transform (DCT), Karhunen–Loève (KL) Transform, and Singular Value Decomposition (SVD). The MATLAB script processes a grayscale image and applies the mentioned transformations, displaying the results and partial reconstructions.
